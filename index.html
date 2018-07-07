@@ -155,11 +155,14 @@
     </div>
 
     <div class="navbar" style="background-color:powderblue;">
-      <div class="col-xs-1 text-black">Extra</div>
+      <div class="col-xs-1 text-black" >Extra</div>
       <div class="col-xs-1">R</div>
     </div>
     <div class="navbar" style="background-color:#ccf0af;">
-      <div class="col-xs-1 text-black">Resent:</div>
+<div class="col-xs-1 text-black">Resent:
+<p id="Extra"></p>
+  <h4 > </h4>
+</div>
     </div>
 
 
@@ -256,7 +259,16 @@
     </div>
 
  <div class="navbar justyfy-content-center">
-<button class="btn bg-primary text-white" value="1">1</button>
+<button class="btn bg-primary text-white" type="button" onclick=" button1()
+">1
+  <script>
+ function button1() {
+
+      document.getElementById("Extra").innerHTML=1;
+    }
+  </script>
+</button>
+
 <button class="btn bg-info text-white" value="2">2</button>
 <button class="btn bg-warning text-black" value="3">3</button>
 <button class="btn bg-success text-white " value="4 ">4</button>
