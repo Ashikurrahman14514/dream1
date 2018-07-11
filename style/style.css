@@ -1,12 +1,12 @@
 .navbar55 {
     background-color: darkgrey;
 }
-.css_add_input {
+#css_add_input {
     width: 28px;
     background-color: darkgrey;
     border:none;
 }
-.css_add_input2 {
+#css_add_input2 {
     width: 28px;
     background-color: #E9ECEF;
     border: none;
