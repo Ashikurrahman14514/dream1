@@ -27,11 +27,5 @@ function runall() {
     var l =a+b+c+d+e+f+g+h+i+j+k+m;
     document.getElementsByClassName("allrun")[0].value=l;
 }
-function stikrat() {
-    var x=getElementsByClassName("run")[0].value;
-    var y=getElementsByClassName("bol")[0].value;
-    var z=x/y;
-    document.getElementsByClassName("stk")[0].value=z;
-}
    
  
