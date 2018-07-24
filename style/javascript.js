@@ -28,20 +28,4 @@ function runall() {
     document.getElementsByClassName("allrun")[0].value=l;
 }
    
-   
-    // var q = document.getElementsByClassName("run")[4].value;
-    // var e =parseInt(q);
-    // var t = document.getElementsByClassName("run")[5].value;
-    // var f =parseInt(t);
-    // var u = document.getElementsByClassName("run")[6].value;
-    // var g =parseInt(u);
-    // var u = document.getElementsByClassName("run")[6].value;
-    // var g =parseInt(u);
-    // var z = document.getElementsByClassName("run")[8].value;
-    // var i = parseInt(z);
-    // var s = document.getElementsByClassName("run")[9].value;
-    // var j =parseInt(s);
-    // var g = document.getElementsByClassName("run")[10].value;
-    // var k = parseInt(g);
-    //   var jm = document.getElementsByClassName("run")[11].value;
-    //   var m =parseInt(jm);
+ 
