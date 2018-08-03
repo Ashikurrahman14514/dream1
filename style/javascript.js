@@ -126,6 +126,21 @@ function stakerat10() {
     document.getElementsByClassName("stk")[10].value = d * 100;
 }
 
+function imsdafsad() {
+    var o = document.getElementsByClassName("button_1")[0].value;
+    var a = parseInt(o);
+   var h=document.getElementsByClassName("clapp")[0].value;
+    var b = parseInt(h);
+    var c=a+b;
+    document.getElementsByClassName("clapp")[0].value=c;
+   var m= document.getElementsByClassName("bollcount")[0].value;
+   var n=parseInt(m);
+   var q=n+1;
+   
+    document.getElementsByClassName("bollcount")[0].value=q;
+
+}
+
 
    
  
