@@ -143,7 +143,7 @@ function imsdafsad() {
         var n = parseInt(m);
         var q = n + 1;
 
-        document.getElementsByClassName("bollcount")[0].value = q;
+        document.getElementsByClassName("bollcount")[0].value = q; 
     }
     if (!radio1[0].checked) {
        
@@ -309,8 +309,6 @@ function imsdafsad() {
     }
   
 }
-
-
 function imsdafsad1() {
 
   
@@ -493,7 +491,6 @@ function imsdafsad1() {
    if (!radio1[10].checked) {}
 
 }
-
 function imsdafsad2() {
 
     var radio1 = document.getElementsByClassName("radio1");
