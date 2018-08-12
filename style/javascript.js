@@ -1037,7 +1037,7 @@ function imsdafsad4() {
 }
 
 
-function allboll() {
+function bolllllall() {
     var p = document.getElementsByClassName("over")[0].value;
     var a = parseInt(p);
     var o = document.getElementsByClassName("over")[1].value;
@@ -1061,6 +1061,7 @@ function allboll() {
     var ml = document.getElementsByClassName("over")[10].value;
     var k = parseInt(ml);
 
-    var l = a + b + c + d + e + f + g + h + i + j + k ;
-    document.getElementsByClassName("sajdfjls")[0].value = l;
+
+    var l = a + b + c + d + e + f + g + h + i + j + k;
+    document.getElementsByClassName("allbolll")[0].value = l;
 }
