@@ -23,9 +23,10 @@ function runall() {
     var k = parseInt(ml);
     var jm = document.getElementsByClassName("run")[11].value;
     var m = parseInt(jm);
-
+var xy = document.getElementsByClassName("allbolll")[0].value;
+var kmp=parseInt(xy);
     var l = a + b + c + d + e + f + g + h + i + j + k + m;
-    document.getElementsByClassName("allrun")[0].value = l + "/10";
+    document.getElementsByClassName("allrun")[0].value = l+"/"+"("+kmp+")";
 }
 
 function stakerat() {
@@ -309,7 +310,6 @@ function imsdafsad() {
     if (!radio1[10].checked) {}
 
 }
-
 function imsdafsad1() {
 
 
@@ -492,7 +492,6 @@ function imsdafsad1() {
     if (!radio1[10].checked) {}
 
 }
-
 function imsdafsad2() {
 
     var radio1 = document.getElementsByClassName("radio1");
@@ -673,7 +672,6 @@ function imsdafsad2() {
     if (!radio1[10].checked) {}
 
 }
-
 function imsdafsad3() {
 
     var radio1 = document.getElementsByClassName("radio1");
@@ -854,7 +852,6 @@ function imsdafsad3() {
     if (!radio1[10].checked) {}
 
 }
-
 function imsdafsad4() {
 
     var radio1 = document.getElementsByClassName("radio1");
@@ -1035,7 +1032,414 @@ function imsdafsad4() {
     if (!radio1[10].checked) {}
 
 }
+function imsdafsad5() {
 
+    var radio1 = document.getElementsByClassName("radio1");
+
+    if (radio1[0].checked) {
+        var o = document.getElementsByClassName("button_1")[5].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("clapp")[0].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("clapp")[0].value = c;
+        var m = document.getElementsByClassName("bollcount")[0].value;
+        var n = parseInt(m);
+        var q = n + 1;
+
+        document.getElementsByClassName("bollcount")[0].value = q;
+    }
+    if (!radio1[0].checked) {
+
+    }
+    if (radio1[1].checked) {
+        var o = document.getElementsByClassName("button_1")[5].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("clapp")[1].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("clapp")[1].value = c;
+        var m = document.getElementsByClassName("bollcount")[1].value;
+        var n = parseInt(m);
+        var q = n + 1;
+
+        document.getElementsByClassName("bollcount")[1].value = q;
+    }
+    if (!radio1[1].checked) {
+
+    }
+    if (radio1[2].checked) {
+        var o = document.getElementsByClassName("button_1")[5].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("clapp")[2].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("clapp")[2].value = c;
+        var m = document.getElementsByClassName("bollcount")[2].value;
+        var n = parseInt(m);
+        var q = n + 1;
+
+        document.getElementsByClassName("bollcount")[2].value = q;
+    }
+    if (!radio1[2].checked) {
+
+    }
+    if (radio1[3].checked) {
+        var o = document.getElementsByClassName("button_1")[5].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("clapp")[3].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("clapp")[3].value = c;
+        var m = document.getElementsByClassName("bollcount")[3].value;
+        var n = parseInt(m);
+        var q = n + 1;
+
+        document.getElementsByClassName("bollcount")[3].value = q;
+    }
+    if (!radio1[3].checked) {
+
+    }
+    if (radio1[4].checked) {
+        var o = document.getElementsByClassName("button_1")[5].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("clapp")[4].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("clapp")[4].value = c;
+        var m = document.getElementsByClassName("bollcount")[4].value;
+        var n = parseInt(m);
+        var q = n + 1;
+
+        document.getElementsByClassName("bollcount")[4].value = q;
+    }
+    if (!radio1[4].checked) {
+
+    }
+    if (radio1[5].checked) {
+        var o = document.getElementsByClassName("button_1")[5].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("clapp")[5].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("clapp")[5].value = c;
+        var m = document.getElementsByClassName("bollcount")[5].value;
+        var n = parseInt(m);
+        var q = n + 1;
+
+        document.getElementsByClassName("bollcount")[5].value = q;
+    }
+    if (!radio1[5].checked) {
+
+    }
+    if (radio1[6].checked) {
+        var o = document.getElementsByClassName("button_1")[5].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("clapp")[6].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("clapp")[6].value = c;
+        var m = document.getElementsByClassName("bollcount")[6].value;
+        var n = parseInt(m);
+        var q = n + 1;
+
+        document.getElementsByClassName("bollcount")[6].value = q;
+    }
+    if (!radio1[6].checked) {
+
+    }
+    if (radio1[7].checked) {
+        var o = document.getElementsByClassName("button_1")[5].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("clapp")[7].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("clapp")[7].value = c;
+        var m = document.getElementsByClassName("bollcount")[7].value;
+        var n = parseInt(m);
+        var q = n + 1;
+
+        document.getElementsByClassName("bollcount")[7].value = q;
+    }
+    if (!radio1[7].checked) {
+
+    }
+    if (radio1[8].checked) {
+        var o = document.getElementsByClassName("button_1")[5].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("clapp")[8].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("clapp")[8].value = c;
+        var m = document.getElementsByClassName("bollcount")[8].value;
+        var n = parseInt(m);
+        var q = n + 1;
+
+        document.getElementsByClassName("bollcount")[8].value = q;
+    }
+    if (!radio1[8].checked) {
+
+    }
+    if (radio1[9].checked) {
+        var o = document.getElementsByClassName("button_1")[5].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("clapp")[9].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("clapp")[9].value = c;
+        var m = document.getElementsByClassName("bollcount")[9].value;
+        var n = parseInt(m);
+        var q = n + 1;
+
+        document.getElementsByClassName("bollcount")[9].value = q;
+    }
+    if (!radio1[9].checked) {
+
+    }
+    if (radio1[10].checked) {
+        var o = document.getElementsByClassName("button_1")[5].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("clapp")[10].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("clapp")[10].value = c;
+        var m = document.getElementsByClassName("bollcount")[10].value;
+        var n = parseInt(m);
+        var q = n + 1;
+
+        document.getElementsByClassName("bollcount")[10].value = q;
+    }
+    if (!radio1[10].checked) { }
+
+}
+function imsdafsad6() {
+
+    var radio1 = document.getElementsByClassName("radio1");
+
+    if (radio1[0].checked) {
+        var o = document.getElementsByClassName("button_1")[6].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("clapp")[0].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("clapp")[0].value = c;
+        var m = document.getElementsByClassName("bollcount")[0].value;
+        var n = parseInt(m);
+        var q = n + 1;
+
+        document.getElementsByClassName("bollcount")[0].value = q;
+    }
+    if (!radio1[0].checked) {
+
+    }
+    if (radio1[1].checked) {
+        var o = document.getElementsByClassName("button_1")[6].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("clapp")[1].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("clapp")[1].value = c;
+        var m = document.getElementsByClassName("bollcount")[1].value;
+        var n = parseInt(m);
+        var q = n + 1;
+
+        document.getElementsByClassName("bollcount")[1].value = q;
+    }
+    if (!radio1[1].checked) {
+
+    }
+    if (radio1[2].checked) {
+        var o = document.getElementsByClassName("button_1")[6].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("clapp")[2].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("clapp")[2].value = c;
+        var m = document.getElementsByClassName("bollcount")[2].value;
+        var n = parseInt(m);
+        var q = n + 1;
+
+        document.getElementsByClassName("bollcount")[2].value = q;
+    }
+    if (!radio1[2].checked) {
+
+    }
+    if (radio1[3].checked) {
+        var o = document.getElementsByClassName("button_1")[6].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("clapp")[3].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("clapp")[3].value = c;
+        var m = document.getElementsByClassName("bollcount")[3].value;
+        var n = parseInt(m);
+        var q = n + 1;
+
+        document.getElementsByClassName("bollcount")[3].value = q;
+    }
+    if (!radio1[3].checked) {
+
+    }
+    if (radio1[4].checked) {
+        var o = document.getElementsByClassName("button_1")[6].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("clapp")[4].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("clapp")[4].value = c;
+        var m = document.getElementsByClassName("bollcount")[4].value;
+        var n = parseInt(m);
+        var q = n + 1;
+
+        document.getElementsByClassName("bollcount")[4].value = q;
+    }
+    if (!radio1[4].checked) {
+
+    }
+    if (radio1[5].checked) {
+        var o = document.getElementsByClassName("button_1")[6].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("clapp")[5].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("clapp")[5].value = c;
+        var m = document.getElementsByClassName("bollcount")[5].value;
+        var n = parseInt(m);
+        var q = n + 1;
+
+        document.getElementsByClassName("bollcount")[5].value = q;
+    }
+    if (!radio1[5].checked) {
+
+    }
+    if (radio1[6].checked) {
+        var o = document.getElementsByClassName("button_1")[6].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("clapp")[6].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("clapp")[6].value = c;
+        var m = document.getElementsByClassName("bollcount")[6].value;
+        var n = parseInt(m);
+        var q = n + 1;
+
+        document.getElementsByClassName("bollcount")[6].value = q;
+    }
+    if (!radio1[6].checked) {
+
+    }
+    if (radio1[7].checked) {
+        var o = document.getElementsByClassName("button_1")[6].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("clapp")[7].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("clapp")[7].value = c;
+        var m = document.getElementsByClassName("bollcount")[7].value;
+        var n = parseInt(m);
+        var q = n + 1;
+
+        document.getElementsByClassName("bollcount")[7].value = q;
+    }
+    if (!radio1[7].checked) {
+
+    }
+    if (radio1[8].checked) {
+        var o = document.getElementsByClassName("button_1")[6].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("clapp")[8].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("clapp")[8].value = c;
+        var m = document.getElementsByClassName("bollcount")[8].value;
+        var n = parseInt(m);
+        var q = n + 1;
+
+        document.getElementsByClassName("bollcount")[8].value = q;
+    }
+    if (!radio1[8].checked) {
+
+    }
+    if (radio1[9].checked) {
+        var o = document.getElementsByClassName("button_1")[6].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("clapp")[9].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("clapp")[9].value = c;
+        var m = document.getElementsByClassName("bollcount")[9].value;
+        var n = parseInt(m);
+        var q = n + 1;
+
+        document.getElementsByClassName("bollcount")[9].value = q;
+    }
+    if (!radio1[9].checked) {
+
+    }
+    if (radio1[10].checked) {
+        var o = document.getElementsByClassName("button_1")[6].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("clapp")[10].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("clapp")[10].value = c;
+        var m = document.getElementsByClassName("bollcount")[10].value;
+        var n = parseInt(m);
+        var q = n + 1;
+
+        document.getElementsByClassName("bollcount")[10].value = q;
+    }
+    if (!radio1[10].checked) {}
+
+}
+function imsdafsad7() {
+    var o = document.getElementsByClassName("button_1")[7].value;
+    var a = parseInt(o);
+    var h = document.getElementsByClassName("Extra")[0].value;
+    var b = parseInt(h);
+    var c = a + b;
+    document.getElementsByClassName("Extra")[0].value = c;
+}
+function imsdafsad8() {
+    var o = document.getElementsByClassName("button_1")[8].value;
+    var a = parseInt(o);
+    var h = document.getElementsByClassName("Extra")[0].value;
+    var b = parseInt(h);
+    var c = a + b;
+    document.getElementsByClassName("Extra")[0].value = c;
+}
+function imsdafsad9() {
+    var o = document.getElementsByClassName("button_1")[9].value;
+    var a = parseInt(o);
+    var h = document.getElementsByClassName("Extra")[0].value;
+    var b = parseInt(h);
+    var c = a + b;
+    document.getElementsByClassName("Extra")[0].value = c;
+}
+function imsdafsad10() {
+    var o = document.getElementsByClassName("button_1")[10].value;
+    var a = parseInt(o);
+    var h = document.getElementsByClassName("Extra")[0].value;
+    var b = parseInt(h);
+    var c = a + b;
+    document.getElementsByClassName("Extra")[0].value = c;
+}
+function imsdafsad12() {
+    var o = document.getElementsByClassName("button_1")[12].value;
+    var a = parseInt(o);
+    var h = document.getElementsByClassName("Extra")[0].value;
+    var b = parseInt(h);
+    var c = a + b;
+    document.getElementsByClassName("Extra")[0].value = c;
+}
+function imsdafsad13() {
+    var o = document.getElementsByClassName("button_1")[13].value;
+    var a = parseInt(o);
+    var h = document.getElementsByClassName("Extra")[0].value;
+    var b = parseInt(h);
+    var c = a + b;
+    document.getElementsByClassName("Extra")[0].value = c;
+}
 
 function bolllllall() {
     var p = document.getElementsByClassName("over")[0].value;
@@ -1063,5 +1467,6 @@ function bolllllall() {
 
 
     var l = a + b + c + d + e + f + g + h + i + j + k;
-    document.getElementsByClassName("allbolll")[0].value = l;
+    var pp=l/6;
+    document.getElementsByClassName("allbolll")[0].value = pp.toFixed(1);
 }
