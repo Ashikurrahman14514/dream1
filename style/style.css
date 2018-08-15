@@ -17,12 +17,12 @@
   width: 100px;
 }
 .batsman{
-    width: 100px;
+    width: 80px;
     background-color: darkgrey;
     border:none;
 }
 .batsman2 {
-    width: 100px;
+    width: 80px;
     background-color: #E9ECEF;
     border: none;
 }
@@ -36,4 +36,5 @@
 }
 .runwicket{
      width: 38px;
+     
 }

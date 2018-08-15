@@ -309,6 +309,188 @@ function imsdafsad() {
     }
     if (!radio1[10].checked) {}
 
+
+
+    var radio2 = document.getElementsByClassName("radio2");
+
+    if (radio2[0].checked) {
+        var o = document.getElementsByClassName("button_1")[0].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("rundisa")[0].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("rundisa")[0].value = c;
+        var m = document.getElementsByClassName("over")[0].value;
+        var n = parseInt(m);
+        var q = n + 1;
+
+        document.getElementsByClassName("over")[0].value = q;
+    }
+    if (!radio2[0].checked) {
+
+    }
+    if (radio2[1].checked) {
+        var o = document.getElementsByClassName("button_1")[0].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("rundisa")[1].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("rundisa")[1].value = c;
+        var m = document.getElementsByClassName("over")[1].value;
+        var n = parseInt(m);
+        var q = n + 1;
+
+        document.getElementsByClassName("over")[1].value = q;
+    }
+    if (!radio2[1].checked) {
+
+    }
+    if (radio2[2].checked) {
+        var o = document.getElementsByClassName("button_1")[0].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("rundisa")[2].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("rundisa")[2].value = c;
+        var m = document.getElementsByClassName("over")[2].value;
+        var n = parseInt(m);
+        var q = n + 1;
+
+        document.getElementsByClassName("over")[2].value = q;
+    }
+    if (!radio2[2].checked) {
+
+    }
+    if (radio2[3].checked) {
+        var o = document.getElementsByClassName("button_1")[0].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("rundisa")[3].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("rundisa")[3].value = c;
+        var m = document.getElementsByClassName("over")[3].value;
+        var n = parseInt(m);
+        var q = n + 1;
+
+        document.getElementsByClassName("over")[3].value = q;
+    }
+    if (!radio2[3].checked) {
+
+    }
+    if (radio2[4].checked) {
+        var o = document.getElementsByClassName("button_1")[0].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("rundisa")[4].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("rundisa")[4].value = c;
+        var m = document.getElementsByClassName("over")[4].value;
+        var n = parseInt(m);
+        var q = n + 1;
+
+        document.getElementsByClassName("over")[4].value = q;
+    }
+    if (!radio2[4].checked) {
+
+    }
+    if (radio2[5].checked) {
+        var o = document.getElementsByClassName("button_1")[0].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("rundisa")[5].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("rundisa")[5].value = c;
+        var m = document.getElementsByClassName("over")[5].value;
+        var n = parseInt(m);
+        var q = n + 1;
+
+        document.getElementsByClassName("over")[5].value = q;
+    }
+    if (!radio2[5].checked) {
+
+    }
+    if (radio2[6].checked) {
+        var o = document.getElementsByClassName("button_1")[0].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("rundisa")[6].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("rundisa")[6].value = c;
+        var m = document.getElementsByClassName("over")[6].value;
+        var n = parseInt(m);
+        var q = n + 1;
+
+        document.getElementsByClassName("over")[6].value = q;
+    }
+    if (!radio2[6].checked) {
+
+    }
+    if (radio2[7].checked) {
+        var o = document.getElementsByClassName("button_1")[0].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("rundisa")[7].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("rundisa")[7].value = c;
+        var m = document.getElementsByClassName("over")[7].value;
+        var n = parseInt(m);
+        var q = n + 1;
+
+        document.getElementsByClassName("over")[7].value = q;
+    }
+    if (!radio2[7].checked) {
+
+    }
+    if (radio2[8].checked) {
+        var o = document.getElementsByClassName("button_1")[0].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("rundisa")[8].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("rundisa")[8].value = c;
+        var m = document.getElementsByClassName("over")[8].value;
+        var n = parseInt(m);
+        var q = n + 1;
+
+        document.getElementsByClassName("over")[8].value = q;
+    }
+    if (!radio2[8].checked) {
+
+    }
+    if (radio2[9].checked) {
+        var o = document.getElementsByClassName("button_1")[0].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("rundisa")[9].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("rundisa")[9].value = c;
+        var m = document.getElementsByClassName("over")[9].value;
+        var n = parseInt(m);
+        var q = n + 1;
+
+        document.getElementsByClassName("over")[9].value = q;
+    }
+    if (!radio2[9].checked) {
+
+    }
+    if (radio2[10].checked) {
+        var o = document.getElementsByClassName("button_1")[0].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("rundisa")[10].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("rundisa")[10].value = c;
+        var m = document.getElementsByClassName("over")[10].value;
+        var n = parseInt(m);
+        var q = n + 1;
+
+        document.getElementsByClassName("over")[10].value = q;
+    }
+    if (!radio2[10].checked) {
+
+    }
+
+
 }
 function imsdafsad1() {
 
@@ -491,6 +673,186 @@ function imsdafsad1() {
     }
     if (!radio1[10].checked) {}
 
+
+    var radio2 = document.getElementsByClassName("radio2");
+
+    if (radio2[0].checked) {
+        var o = document.getElementsByClassName("button_1")[1].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("rundisa")[0].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("rundisa")[0].value = c;
+        var m = document.getElementsByClassName("over")[0].value;
+        var n = parseInt(m);
+        var q = n + 1;
+
+        document.getElementsByClassName("over")[0].value = q;
+    }
+    if (!radio2[0].checked) {
+
+    }
+    if (radio2[1].checked) {
+        var o = document.getElementsByClassName("button_1")[1].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("rundisa")[1].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("rundisa")[1].value = c;
+        var m = document.getElementsByClassName("over")[1].value;
+        var n = parseInt(m);
+        var q = n + 1;
+
+        document.getElementsByClassName("over")[1].value = q;
+    }
+    if (!radio2[1].checked) {
+
+    }
+    if (radio2[2].checked) {
+        var o = document.getElementsByClassName("button_1")[1].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("rundisa")[2].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("rundisa")[2].value = c;
+        var m = document.getElementsByClassName("over")[2].value;
+        var n = parseInt(m);
+        var q = n + 1;
+
+        document.getElementsByClassName("over")[2].value = q;
+    }
+    if (!radio2[2].checked) {
+
+    }
+    if (radio2[3].checked) {
+        var o = document.getElementsByClassName("button_1")[1].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("rundisa")[3].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("rundisa")[3].value = c;
+        var m = document.getElementsByClassName("over")[3].value;
+        var n = parseInt(m);
+        var q = n + 1;
+
+        document.getElementsByClassName("over")[3].value = q;
+    }
+    if (!radio2[3].checked) {
+
+    }
+    if (radio2[4].checked) {
+        var o = document.getElementsByClassName("button_1")[1].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("rundisa")[4].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("rundisa")[4].value = c;
+        var m = document.getElementsByClassName("over")[4].value;
+        var n = parseInt(m);
+        var q = n + 1;
+
+        document.getElementsByClassName("over")[4].value = q;
+    }
+    if (!radio2[4].checked) {
+
+    }
+    if (radio2[5].checked) {
+        var o = document.getElementsByClassName("button_1")[1].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("rundisa")[5].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("rundisa")[5].value = c;
+        var m = document.getElementsByClassName("over")[5].value;
+        var n = parseInt(m);
+        var q = n + 1;
+
+        document.getElementsByClassName("over")[5].value = q;
+    }
+    if (!radio2[5].checked) {
+
+    }
+    if (radio2[6].checked) {
+        var o = document.getElementsByClassName("button_1")[1].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("rundisa")[6].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("rundisa")[6].value = c;
+        var m = document.getElementsByClassName("over")[6].value;
+        var n = parseInt(m);
+        var q = n + 1;
+
+        document.getElementsByClassName("over")[6].value = q;
+    }
+    if (!radio2[6].checked) {
+
+    }
+    if (radio2[7].checked) {
+        var o = document.getElementsByClassName("button_1")[1].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("rundisa")[7].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("rundisa")[7].value = c;
+        var m = document.getElementsByClassName("over")[7].value;
+        var n = parseInt(m);
+        var q = n + 1;
+
+        document.getElementsByClassName("over")[7].value = q;
+    }
+    if (!radio2[7].checked) {
+
+    }
+    if (radio2[8].checked) {
+        var o = document.getElementsByClassName("button_1")[1].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("rundisa")[8].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("rundisa")[8].value = c;
+        var m = document.getElementsByClassName("over")[8].value;
+        var n = parseInt(m);
+        var q = n + 1;
+
+        document.getElementsByClassName("over")[8].value = q;
+    }
+    if (!radio2[8].checked) {
+
+    }
+    if (radio2[9].checked) {
+        var o = document.getElementsByClassName("button_1")[1].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("rundisa")[9].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("rundisa")[9].value = c;
+        var m = document.getElementsByClassName("over")[9].value;
+        var n = parseInt(m);
+        var q = n + 1;
+
+        document.getElementsByClassName("over")[9].value = q;
+    }
+    if (!radio2[9].checked) {
+
+    }
+    if (radio2[10].checked) {
+        var o = document.getElementsByClassName("button_1")[1].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("rundisa")[10].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("rundisa")[10].value = c;
+        var m = document.getElementsByClassName("over")[10].value;
+        var n = parseInt(m);
+        var q = n + 1;
+
+        document.getElementsByClassName("over")[10].value = q;
+    }
+    if (!radio2[10].checked) {
+
+    }
+
 }
 function imsdafsad2() {
 
@@ -670,6 +1032,186 @@ function imsdafsad2() {
         document.getElementsByClassName("bollcount")[10].value = q;
     }
     if (!radio1[10].checked) {}
+
+
+    var radio2 = document.getElementsByClassName("radio2");
+
+    if (radio2[0].checked) {
+        var o = document.getElementsByClassName("button_1")[2].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("rundisa")[0].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("rundisa")[0].value = c;
+        var m = document.getElementsByClassName("over")[0].value;
+        var n = parseInt(m);
+        var q = n + 1;
+
+        document.getElementsByClassName("over")[0].value = q;
+    }
+    if (!radio2[0].checked) {
+
+    }
+    if (radio2[1].checked) {
+        var o = document.getElementsByClassName("button_1")[2].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("rundisa")[1].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("rundisa")[1].value = c;
+        var m = document.getElementsByClassName("over")[1].value;
+        var n = parseInt(m);
+        var q = n + 1;
+
+        document.getElementsByClassName("over")[1].value = q;
+    }
+    if (!radio2[1].checked) {
+
+    }
+    if (radio2[2].checked) {
+        var o = document.getElementsByClassName("button_1")[2].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("rundisa")[2].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("rundisa")[2].value = c;
+        var m = document.getElementsByClassName("over")[2].value;
+        var n = parseInt(m);
+        var q = n + 1;
+
+        document.getElementsByClassName("over")[2].value = q;
+    }
+    if (!radio2[2].checked) {
+
+    }
+    if (radio2[3].checked) {
+        var o = document.getElementsByClassName("button_1")[2].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("rundisa")[3].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("rundisa")[3].value = c;
+        var m = document.getElementsByClassName("over")[3].value;
+        var n = parseInt(m);
+        var q = n + 1;
+
+        document.getElementsByClassName("over")[3].value = q;
+    }
+    if (!radio2[3].checked) {
+
+    }
+    if (radio2[4].checked) {
+        var o = document.getElementsByClassName("button_1")[2].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("rundisa")[4].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("rundisa")[4].value = c;
+        var m = document.getElementsByClassName("over")[4].value;
+        var n = parseInt(m);
+        var q = n + 1;
+
+        document.getElementsByClassName("over")[4].value = q;
+    }
+    if (!radio2[4].checked) {
+
+    }
+    if (radio2[5].checked) {
+        var o = document.getElementsByClassName("button_1")[2].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("rundisa")[5].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("rundisa")[5].value = c;
+        var m = document.getElementsByClassName("over")[5].value;
+        var n = parseInt(m);
+        var q = n + 1;
+
+        document.getElementsByClassName("over")[5].value = q;
+    }
+    if (!radio2[5].checked) {
+
+    }
+    if (radio2[6].checked) {
+        var o = document.getElementsByClassName("button_1")[2].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("rundisa")[6].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("rundisa")[6].value = c;
+        var m = document.getElementsByClassName("over")[6].value;
+        var n = parseInt(m);
+        var q = n + 1;
+
+        document.getElementsByClassName("over")[6].value = q;
+    }
+    if (!radio2[6].checked) {
+
+    }
+    if (radio2[7].checked) {
+        var o = document.getElementsByClassName("button_1")[2].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("rundisa")[7].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("rundisa")[7].value = c;
+        var m = document.getElementsByClassName("over")[7].value;
+        var n = parseInt(m);
+        var q = n + 1;
+
+        document.getElementsByClassName("over")[7].value = q;
+    }
+    if (!radio2[7].checked) {
+
+    }
+    if (radio2[8].checked) {
+        var o = document.getElementsByClassName("button_1")[2].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("rundisa")[8].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("rundisa")[8].value = c;
+        var m = document.getElementsByClassName("over")[8].value;
+        var n = parseInt(m);
+        var q = n + 1;
+
+        document.getElementsByClassName("over")[8].value = q;
+    }
+    if (!radio2[8].checked) {
+
+    }
+    if (radio2[9].checked) {
+        var o = document.getElementsByClassName("button_1")[2].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("rundisa")[9].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("rundisa")[9].value = c;
+        var m = document.getElementsByClassName("over")[9].value;
+        var n = parseInt(m);
+        var q = n + 1;
+
+        document.getElementsByClassName("over")[9].value = q;
+    }
+    if (!radio2[9].checked) {
+
+    }
+    if (radio2[10].checked) {
+        var o = document.getElementsByClassName("button_1")[2].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("rundisa")[10].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("rundisa")[10].value = c;
+        var m = document.getElementsByClassName("over")[10].value;
+        var n = parseInt(m);
+        var q = n + 1;
+
+        document.getElementsByClassName("over")[10].value = q;
+    }
+    if (!radio2[10].checked) {
+
+    }
 
 }
 function imsdafsad3() {
@@ -851,6 +1393,185 @@ function imsdafsad3() {
     }
     if (!radio1[10].checked) {}
 
+    var radio2 = document.getElementsByClassName("radio2");
+
+    if (radio2[0].checked) {
+        var o = document.getElementsByClassName("button_1")[3].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("rundisa")[0].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("rundisa")[0].value = c;
+        var m = document.getElementsByClassName("over")[0].value;
+        var n = parseInt(m);
+        var q = n + 1;
+
+        document.getElementsByClassName("over")[0].value = q;
+    }
+    if (!radio2[0].checked) {
+
+    }
+    if (radio2[1].checked) {
+        var o = document.getElementsByClassName("button_1")[3].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("rundisa")[1].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("rundisa")[1].value = c;
+        var m = document.getElementsByClassName("over")[1].value;
+        var n = parseInt(m);
+        var q = n + 1;
+
+        document.getElementsByClassName("over")[1].value = q;
+    }
+    if (!radio2[1].checked) {
+
+    }
+    if (radio2[2].checked) {
+        var o = document.getElementsByClassName("button_1")[3].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("rundisa")[2].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("rundisa")[2].value = c;
+        var m = document.getElementsByClassName("over")[2].value;
+        var n = parseInt(m);
+        var q = n + 1;
+
+        document.getElementsByClassName("over")[2].value = q;
+    }
+    if (!radio2[2].checked) {
+
+    }
+    if (radio2[3].checked) {
+        var o = document.getElementsByClassName("button_1")[3].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("rundisa")[3].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("rundisa")[3].value = c;
+        var m = document.getElementsByClassName("over")[3].value;
+        var n = parseInt(m);
+        var q = n + 1;
+
+        document.getElementsByClassName("over")[3].value = q;
+    }
+    if (!radio2[3].checked) {
+
+    }
+    if (radio2[4].checked) {
+        var o = document.getElementsByClassName("button_1")[3].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("rundisa")[4].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("rundisa")[4].value = c;
+        var m = document.getElementsByClassName("over")[4].value;
+        var n = parseInt(m);
+        var q = n + 1;
+
+        document.getElementsByClassName("over")[4].value = q;
+    }
+    if (!radio2[4].checked) {
+
+    }
+    if (radio2[5].checked) {
+        var o = document.getElementsByClassName("button_1")[3].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("rundisa")[5].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("rundisa")[5].value = c;
+        var m = document.getElementsByClassName("over")[5].value;
+        var n = parseInt(m);
+        var q = n + 1;
+
+        document.getElementsByClassName("over")[5].value = q;
+    }
+    if (!radio2[5].checked) {
+
+    }
+    if (radio2[6].checked) {
+        var o = document.getElementsByClassName("button_1")[3].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("rundisa")[6].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("rundisa")[6].value = c;
+        var m = document.getElementsByClassName("over")[6].value;
+        var n = parseInt(m);
+        var q = n + 1;
+
+        document.getElementsByClassName("over")[6].value = q;
+    }
+    if (!radio2[6].checked) {
+
+    }
+    if (radio2[7].checked) {
+        var o = document.getElementsByClassName("button_1")[3].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("rundisa")[7].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("rundisa")[7].value = c;
+        var m = document.getElementsByClassName("over")[7].value;
+        var n = parseInt(m);
+        var q = n + 1;
+
+        document.getElementsByClassName("over")[7].value = q;
+    }
+    if (!radio2[7].checked) {
+
+    }
+    if (radio2[8].checked) {
+        var o = document.getElementsByClassName("button_1")[3].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("rundisa")[8].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("rundisa")[8].value = c;
+        var m = document.getElementsByClassName("over")[8].value;
+        var n = parseInt(m);
+        var q = n + 1;
+
+        document.getElementsByClassName("over")[8].value = q;
+    }
+    if (!radio2[8].checked) {
+
+    }
+    if (radio2[9].checked) {
+        var o = document.getElementsByClassName("button_1")[3].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("rundisa")[9].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("rundisa")[9].value = c;
+        var m = document.getElementsByClassName("over")[9].value;
+        var n = parseInt(m);
+        var q = n + 1;
+
+        document.getElementsByClassName("over")[9].value = q;
+    }
+    if (!radio2[9].checked) {
+
+    }
+    if (radio2[10].checked) {
+        var o = document.getElementsByClassName("button_1")[3].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("rundisa")[10].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("rundisa")[10].value = c;
+        var m = document.getElementsByClassName("over")[10].value;
+        var n = parseInt(m);
+        var q = n + 1;
+
+        document.getElementsByClassName("over")[10].value = q;
+    }
+    if (!radio2[10].checked) {
+
+    }
+
 }
 function imsdafsad4() {
 
@@ -1030,6 +1751,186 @@ function imsdafsad4() {
         document.getElementsByClassName("bollcount")[10].value = q;
     }
     if (!radio1[10].checked) {}
+
+
+    var radio2 = document.getElementsByClassName("radio2");
+
+    if (radio2[0].checked) {
+        var o = document.getElementsByClassName("button_1")[4].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("rundisa")[0].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("rundisa")[0].value = c;
+        var m = document.getElementsByClassName("over")[0].value;
+        var n = parseInt(m);
+        var q = n + 1;
+
+        document.getElementsByClassName("over")[0].value = q;
+    }
+    if (!radio2[0].checked) {
+
+    }
+    if (radio2[1].checked) {
+        var o = document.getElementsByClassName("button_1")[4].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("rundisa")[1].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("rundisa")[1].value = c;
+        var m = document.getElementsByClassName("over")[1].value;
+        var n = parseInt(m);
+        var q = n + 1;
+
+        document.getElementsByClassName("over")[1].value = q;
+    }
+    if (!radio2[1].checked) {
+
+    }
+    if (radio2[2].checked) {
+        var o = document.getElementsByClassName("button_1")[4].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("rundisa")[2].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("rundisa")[2].value = c;
+        var m = document.getElementsByClassName("over")[2].value;
+        var n = parseInt(m);
+        var q = n + 1;
+
+        document.getElementsByClassName("over")[2].value = q;
+    }
+    if (!radio2[2].checked) {
+
+    }
+    if (radio2[3].checked) {
+        var o = document.getElementsByClassName("button_1")[4].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("rundisa")[3].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("rundisa")[3].value = c;
+        var m = document.getElementsByClassName("over")[3].value;
+        var n = parseInt(m);
+        var q = n + 1;
+
+        document.getElementsByClassName("over")[3].value = q;
+    }
+    if (!radio2[3].checked) {
+
+    }
+    if (radio2[4].checked) {
+        var o = document.getElementsByClassName("button_1")[4].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("rundisa")[4].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("rundisa")[4].value = c;
+        var m = document.getElementsByClassName("over")[4].value;
+        var n = parseInt(m);
+        var q = n + 1;
+
+        document.getElementsByClassName("over")[4].value = q;
+    }
+    if (!radio2[4].checked) {
+
+    }
+    if (radio2[5].checked) {
+        var o = document.getElementsByClassName("button_1")[4].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("rundisa")[5].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("rundisa")[5].value = c;
+        var m = document.getElementsByClassName("over")[5].value;
+        var n = parseInt(m);
+        var q = n + 1;
+
+        document.getElementsByClassName("over")[5].value = q;
+    }
+    if (!radio2[5].checked) {
+
+    }
+    if (radio2[6].checked) {
+        var o = document.getElementsByClassName("button_1")[4].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("rundisa")[6].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("rundisa")[6].value = c;
+        var m = document.getElementsByClassName("over")[6].value;
+        var n = parseInt(m);
+        var q = n + 1;
+
+        document.getElementsByClassName("over")[6].value = q;
+    }
+    if (!radio2[6].checked) {
+
+    }
+    if (radio2[7].checked) {
+        var o = document.getElementsByClassName("button_1")[4].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("rundisa")[7].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("rundisa")[7].value = c;
+        var m = document.getElementsByClassName("over")[7].value;
+        var n = parseInt(m);
+        var q = n + 1;
+
+        document.getElementsByClassName("over")[7].value = q;
+    }
+    if (!radio2[7].checked) {
+
+    }
+    if (radio2[8].checked) {
+        var o = document.getElementsByClassName("button_1")[4].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("rundisa")[8].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("rundisa")[8].value = c;
+        var m = document.getElementsByClassName("over")[8].value;
+        var n = parseInt(m);
+        var q = n + 1;
+
+        document.getElementsByClassName("over")[8].value = q;
+    }
+    if (!radio2[8].checked) {
+
+    }
+    if (radio2[9].checked) {
+        var o = document.getElementsByClassName("button_1")[4].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("rundisa")[9].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("rundisa")[9].value = c;
+        var m = document.getElementsByClassName("over")[9].value;
+        var n = parseInt(m);
+        var q = n + 1;
+
+        document.getElementsByClassName("over")[9].value = q;
+    }
+    if (!radio2[9].checked) {
+
+    }
+    if (radio2[10].checked) {
+        var o = document.getElementsByClassName("button_1")[4].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("rundisa")[10].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("rundisa")[10].value = c;
+        var m = document.getElementsByClassName("over")[10].value;
+        var n = parseInt(m);
+        var q = n + 1;
+
+        document.getElementsByClassName("over")[10].value = q;
+    }
+    if (!radio2[10].checked) {
+
+    }
 
 }
 function imsdafsad5() {
@@ -1211,6 +2112,185 @@ function imsdafsad5() {
     }
     if (!radio1[10].checked) { }
 
+    var radio2 = document.getElementsByClassName("radio2");
+
+    if (radio2[0].checked) {
+        var o = document.getElementsByClassName("button_1")[5].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("rundisa")[0].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("rundisa")[0].value = c;
+        var m = document.getElementsByClassName("over")[0].value;
+        var n = parseInt(m);
+        var q = n + 1;
+
+        document.getElementsByClassName("over")[0].value = q;
+    }
+    if (!radio2[0].checked) {
+
+    }
+    if (radio2[1].checked) {
+        var o = document.getElementsByClassName("button_1")[5].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("rundisa")[1].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("rundisa")[1].value = c;
+        var m = document.getElementsByClassName("over")[1].value;
+        var n = parseInt(m);
+        var q = n + 1;
+
+        document.getElementsByClassName("over")[1].value = q;
+    }
+    if (!radio2[1].checked) {
+
+    }
+    if (radio2[2].checked) {
+        var o = document.getElementsByClassName("button_1")[5].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("rundisa")[2].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("rundisa")[2].value = c;
+        var m = document.getElementsByClassName("over")[2].value;
+        var n = parseInt(m);
+        var q = n + 1;
+
+        document.getElementsByClassName("over")[2].value = q;
+    }
+    if (!radio2[2].checked) {
+
+    }
+    if (radio2[3].checked) {
+        var o = document.getElementsByClassName("button_1")[5].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("rundisa")[3].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("rundisa")[3].value = c;
+        var m = document.getElementsByClassName("over")[3].value;
+        var n = parseInt(m);
+        var q = n + 1;
+
+        document.getElementsByClassName("over")[3].value = q;
+    }
+    if (!radio2[3].checked) {
+
+    }
+    if (radio2[4].checked) {
+        var o = document.getElementsByClassName("button_1")[5].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("rundisa")[4].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("rundisa")[4].value = c;
+        var m = document.getElementsByClassName("over")[4].value;
+        var n = parseInt(m);
+        var q = n + 1;
+
+        document.getElementsByClassName("over")[4].value = q;
+    }
+    if (!radio2[4].checked) {
+
+    }
+    if (radio2[5].checked) {
+        var o = document.getElementsByClassName("button_1")[5].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("rundisa")[5].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("rundisa")[5].value = c;
+        var m = document.getElementsByClassName("over")[5].value;
+        var n = parseInt(m);
+        var q = n + 1;
+
+        document.getElementsByClassName("over")[5].value = q;
+    }
+    if (!radio2[5].checked) {
+
+    }
+    if (radio2[6].checked) {
+        var o = document.getElementsByClassName("button_1")[5].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("rundisa")[6].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("rundisa")[6].value = c;
+        var m = document.getElementsByClassName("over")[6].value;
+        var n = parseInt(m);
+        var q = n + 1;
+
+        document.getElementsByClassName("over")[6].value = q;
+    }
+    if (!radio2[6].checked) {
+
+    }
+    if (radio2[7].checked) {
+        var o = document.getElementsByClassName("button_1")[5].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("rundisa")[7].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("rundisa")[7].value = c;
+        var m = document.getElementsByClassName("over")[7].value;
+        var n = parseInt(m);
+        var q = n + 1;
+
+        document.getElementsByClassName("over")[7].value = q;
+    }
+    if (!radio2[7].checked) {
+
+    }
+    if (radio2[8].checked) {
+        var o = document.getElementsByClassName("button_1")[5].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("rundisa")[8].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("rundisa")[8].value = c;
+        var m = document.getElementsByClassName("over")[8].value;
+        var n = parseInt(m);
+        var q = n + 1;
+
+        document.getElementsByClassName("over")[8].value = q;
+    }
+    if (!radio2[8].checked) {
+
+    }
+    if (radio2[9].checked) {
+        var o = document.getElementsByClassName("button_1")[5].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("rundisa")[9].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("rundisa")[9].value = c;
+        var m = document.getElementsByClassName("over")[9].value;
+        var n = parseInt(m);
+        var q = n + 1;
+
+        document.getElementsByClassName("over")[9].value = q;
+    }
+    if (!radio2[9].checked) {
+
+    }
+    if (radio2[10].checked) {
+        var o = document.getElementsByClassName("button_1")[5].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("rundisa")[10].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("rundisa")[10].value = c;
+        var m = document.getElementsByClassName("over")[10].value;
+        var n = parseInt(m);
+        var q = n + 1;
+
+        document.getElementsByClassName("over")[10].value = q;
+    }
+    if (!radio2[10].checked) {
+
+    }
+
 }
 function imsdafsad6() {
 
@@ -1390,6 +2470,186 @@ function imsdafsad6() {
         document.getElementsByClassName("bollcount")[10].value = q;
     }
     if (!radio1[10].checked) {}
+
+
+    var radio2 = document.getElementsByClassName("radio2");
+
+    if (radio2[0].checked) {
+        var o = document.getElementsByClassName("button_1")[6].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("rundisa")[0].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("rundisa")[0].value = c;
+        var m = document.getElementsByClassName("over")[0].value;
+        var n = parseInt(m);
+        var q = n + 1;
+
+        document.getElementsByClassName("over")[0].value = q;
+    }
+    if (!radio2[0].checked) {
+
+    }
+    if (radio2[1].checked) {
+        var o = document.getElementsByClassName("button_1")[6].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("rundisa")[1].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("rundisa")[1].value = c;
+        var m = document.getElementsByClassName("over")[1].value;
+        var n = parseInt(m);
+        var q = n + 1;
+
+        document.getElementsByClassName("over")[1].value = q;
+    }
+    if (!radio2[1].checked) {
+
+    }
+    if (radio2[2].checked) {
+        var o = document.getElementsByClassName("button_1")[6].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("rundisa")[2].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("rundisa")[2].value = c;
+        var m = document.getElementsByClassName("over")[2].value;
+        var n = parseInt(m);
+        var q = n + 1;
+
+        document.getElementsByClassName("over")[2].value = q;
+    }
+    if (!radio2[2].checked) {
+
+    }
+    if (radio2[3].checked) {
+        var o = document.getElementsByClassName("button_1")[6].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("rundisa")[3].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("rundisa")[3].value = c;
+        var m = document.getElementsByClassName("over")[3].value;
+        var n = parseInt(m);
+        var q = n + 1;
+
+        document.getElementsByClassName("over")[3].value = q;
+    }
+    if (!radio2[3].checked) {
+
+    }
+    if (radio2[4].checked) {
+        var o = document.getElementsByClassName("button_1")[6].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("rundisa")[4].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("rundisa")[4].value = c;
+        var m = document.getElementsByClassName("over")[4].value;
+        var n = parseInt(m);
+        var q = n + 1;
+
+        document.getElementsByClassName("over")[4].value = q;
+    }
+    if (!radio2[4].checked) {
+
+    }
+    if (radio2[5].checked) {
+        var o = document.getElementsByClassName("button_1")[6].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("rundisa")[5].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("rundisa")[5].value = c;
+        var m = document.getElementsByClassName("over")[5].value;
+        var n = parseInt(m);
+        var q = n + 1;
+
+        document.getElementsByClassName("over")[5].value = q;
+    }
+    if (!radio2[5].checked) {
+
+    }
+    if (radio2[6].checked) {
+        var o = document.getElementsByClassName("button_1")[6].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("rundisa")[6].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("rundisa")[6].value = c;
+        var m = document.getElementsByClassName("over")[6].value;
+        var n = parseInt(m);
+        var q = n + 1;
+
+        document.getElementsByClassName("over")[6].value = q;
+    }
+    if (!radio2[6].checked) {
+
+    }
+    if (radio2[7].checked) {
+        var o = document.getElementsByClassName("button_1")[6].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("wicket5")[7].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("rundisa")[7].value = c;
+        var m = document.getElementsByClassName("over")[7].value;
+        var n = parseInt(m);
+        var q = n + 1;
+
+        document.getElementsByClassName("over")[7].value = q;
+    }
+    if (!radio2[7].checked) {
+
+    }
+    if (radio2[8].checked) {
+        var o = document.getElementsByClassName("button_1")[6].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("rundisa")[8].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("rundisa")[8].value = c;
+        var m = document.getElementsByClassName("over")[8].value;
+        var n = parseInt(m);
+        var q = n + 1;
+
+        document.getElementsByClassName("over")[8].value = q;
+    }
+    if (!radio2[8].checked) {
+
+    }
+    if (radio2[9].checked) {
+        var o = document.getElementsByClassName("button_1")[6].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("rundisa")[9].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("rundisa")[9].value = c;
+        var m = document.getElementsByClassName("over")[9].value;
+        var n = parseInt(m);
+        var q = n + 1;
+
+        document.getElementsByClassName("over")[9].value = q;
+    }
+    if (!radio2[9].checked) {
+
+    }
+    if (radio2[10].checked) {
+        var o = document.getElementsByClassName("button_1")[6].value;
+        var a = parseInt(o);
+        var h = document.getElementsByClassName("rundisa")[10].value;
+        var b = parseInt(h);
+        var c = a + b;
+        document.getElementsByClassName("rundisa")[10].value = c;
+        var m = document.getElementsByClassName("over")[10].value;
+        var n = parseInt(m);
+        var q = n + 1;
+
+        document.getElementsByClassName("over")[10].value = q;
+    }
+    if (!radio2[10].checked) {
+
+    }
 
 }
 function imsdafsad7() {
