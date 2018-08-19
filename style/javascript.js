@@ -5989,3 +5989,107 @@ function bo2() {
 
     }
 }
+
+function econo() {
+        var k = document.getElementsByClassName("over")[0].value;
+        var a = parseInt(k);
+        var m = document.getElementsByClassName("rundisa")[0].value;
+        var b = parseInt(m);
+        var d = a /6;
+        var e =b/d;
+        document.getElementsByClassName("runwicket")[0].value = e;
+    }
+function econo1() {
+        var k = document.getElementsByClassName("over")[1].value;
+        var a = parseInt(k);
+        var m = document.getElementsByClassName("rundisa")[1].value;
+        var b = parseInt(m);
+        var d = a /6;
+        var e =b/d;
+        document.getElementsByClassName("runwicket")[1].value = e;
+    }
+function econo2() {
+    var k = document.getElementsByClassName("over")[2].value;
+    var a = parseInt(k);
+    var m = document.getElementsByClassName("rundisa")[2].value;
+    var b = parseInt(m);
+    var d = a / 6;
+    var e = b / d;
+    document.getElementsByClassName("runwicket")[2].value = e;
+}
+
+function econo3() {
+    var k = document.getElementsByClassName("over")[3].value;
+    var a = parseInt(k);
+    var m = document.getElementsByClassName("rundisa")[3].value;
+    var b = parseInt(m);
+    var d = a / 6;
+    var e = b / d;
+    document.getElementsByClassName("runwicket")[3].value = e;
+}
+
+function econo4() {
+    var k = document.getElementsByClassName("over")[4].value;
+    var a = parseInt(k);
+    var m = document.getElementsByClassName("rundisa")[4].value;
+    var b = parseInt(m);
+    var d = a / 6;
+    var e = b / d;
+    document.getElementsByClassName("runwicket")[4].value = e;
+}
+function econo5() {
+    var k = document.getElementsByClassName("over")[5].value;
+    var a = parseInt(k);
+    var m = document.getElementsByClassName("rundisa")[5].value;
+    var b = parseInt(m);
+    var d = a / 6;
+    var e = b / d;
+    document.getElementsByClassName("runwicket")[5].value = e;
+}
+function econo6() {
+    var k = document.getElementsByClassName("over")[6].value;
+    var a = parseInt(k);
+    var m = document.getElementsByClassName("rundisa")[6].value;
+    var b = parseInt(m);
+    var d = a / 6;
+    var e = b / d;
+    document.getElementsByClassName("runwicket")[6].value = e;
+}
+function econo7() {
+    var k = document.getElementsByClassName("over")[7].value;
+    var a = parseInt(k);
+    var m = document.getElementsByClassName("rundisa")[7].value;
+    var b = parseInt(m);
+    var d = a / 6;
+    var e = b / d;
+    document.getElementsByClassName("runwicket")[7].value = e;
+}
+function econo8() {
+    var k = document.getElementsByClassName("over")[8].value;
+    var a = parseInt(k);
+    var m = document.getElementsByClassName("rundisa")[8].value;
+    var b = parseInt(m);
+    var d = a / 6;
+    var e = b / d;
+    document.getElementsByClassName("runwicket")[8].value = e;
+}
+function econo9() {
+    var k = document.getElementsByClassName("over")[9].value;
+    var a = parseInt(k);
+    var m = document.getElementsByClassName("rundisa")[9].value;
+    var b = parseInt(m);
+    var d = a / 6;
+    var e = b / d;
+    document.getElementsByClassName("runwicket")[9].value = e;
+}
+function econo10() {
+    var k = document.getElementsByClassName("over")[10].value;
+    var a = parseInt(k);
+    var m = document.getElementsByClassName("rundisa")[10].value;
+    var b = parseInt(m);
+    var d = a / 6;
+    var e = b / d;
+    document.getElementsByClassName("runwicket")[10].value = e;
+}
+
+
